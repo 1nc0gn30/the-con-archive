@@ -1,16 +1,28 @@
-# the-con-archive
+<!-- xonettn -->
+<div align="center">
+
+# ⚛️ The Con Archive
 
 This is an archive of historical and modern grifters throughout history. Includes grifters and cons!! React Vite App!
 
-## Overview
+
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+
+![Deploy](https://img.shields.io/badge/Deployed-Netlify-00C7B7?logo=netlify&logoColor=white)
+
+</div>
+
+---
+
+## 📋 Overview
 This is an archive of historical and modern grifters throughout history. Includes grifters and cons!! React Vite App!
 
-## Tech Stack
+## 📦 Tech Stack
 - React
 - Vite
 - Express
 
-## Project Structure
+## 🗂️ Project Structure
 ```
 the-con-archive/
   - dist-prerender
@@ -18,37 +30,37 @@ the-con-archive/
   (17 files total)
 ```
 
-## Getting Started
+## 🚀 Getting Started
 
-### Prerequisites
+### 📋 Prerequisites
 - Node.js (v18+)
 - npm or yarn
 
-### Installation
+### 📦 Installation
 ```bash
 git clone https://github.com/1nc0gn30/the-con-archive.git
 cd the-con-archive
 npm install
 ```
 
-### Development
+### 💻 Development
 ```bash
 npm run dev
 ```
 
-### Build
+### 🔨 Build
 ```bash
 npm run build
 ```
 
-### Available Scripts
+### ⚙️ Available Scripts
   npm run dev - vite --port=3000 --host=0.0.0.0
   npm run build - vite build --outDir dist/static && vite build --ssr src/entry-server.tsx --outDir dist/server && node --experimental-strip-types prerender.ts
   npm run preview - vite preview
   npm run clean - rm -rf dist
   npm run lint - tsc --noEmit
 
-## Original README
+## 📂 Original README
 <details>
 <summary>Click to expand original README</summary>
 
@@ -62,7 +74,7 @@ This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/38c40ee6-05bc-425f-abc4-830baef4b04c
 
-## Run Locally
+## 🚀 Run Locally
 
 **Prerequisites:**  Node.js
 
@@ -76,7 +88,7 @@ View your app in AI Studio: https://ai.studio/apps/38c40ee6-05bc-425f-abc4-830ba
 
 </details>
 
-## TODO / Roadmap
+## 📝 TODO / Roadmap
 - [ ] Add unit tests
 - [ ] Add LICENSE file
 - [ ] Add Dockerfile for containerized deployment
@@ -89,14 +101,22 @@ View your app in AI Studio: https://ai.studio/apps/38c40ee6-05bc-425f-abc4-830ba
 - [ ] Update dependencies to latest versions
 - [ ] Add code comments and inline documentation
 
-## Deployment
+## 🚀 Deployment
 This project can be deployed to Netlify, Vercel, or any static host.
 
-## Author
+## 👤 Author
 **Neal Frazier** - [@AshAmplifies](https://github.com/1nc0gn30)
 
-## Links
+## 🔗 Links
 - GitHub: https://github.com/1nc0gn30/the-con-archive
 
 ---
 *This README was enhanced as part of the neals-projects-2026 batch update.*
+
+---
+
+<div align="center">
+
+**[xonettn]** · Built by [Neal Frazier](https://github.com/1nc0gn30) · [@AshAmplifies](https://twitter.com/AshAmplifies)
+
+</div>
